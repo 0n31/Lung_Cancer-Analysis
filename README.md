@@ -42,14 +42,15 @@ This project is a modular Python-based analysis suite designed to study lung can
 
 ## Project Structure
 
+```text
 lung-cancer-analysis-navdeep/
 ├── src/
-│ ├── data/ # Raw or processed data files (e.g., CSV)
-│ ├── task_a.py # Demographics and history analysis
-│ ├── task_b.py # High-risk patient detection
-│ └── task_c.py # Treatment and survival analysis
-├── main.ipynb # Main interactive Jupyter Notebook
-├── requirements.txt # Required Python packages
+│   ├── data/                # Raw or processed data files (e.g., CSV)
+│   ├── task_a.py            # Demographics and history analysis
+│   ├── task_b.py            # High-risk patient detection
+│   └── task_c.py            # Treatment and survival analysis
+├── main.ipynb               # Main interactive Jupyter Notebook
+├── requirements.txt         # Required Python packages
 └── .gitignore
 
 ## CSV Format
