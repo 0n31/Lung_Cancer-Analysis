@@ -53,6 +53,8 @@ lung-cancer-analysis-navdeep/
 ├── requirements.txt         # Required Python packages
 └── .gitignore
 
+```
+
 ## CSV Format
 
 Make sure your CSV file contains the following columns (or similar):
